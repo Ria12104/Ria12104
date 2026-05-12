@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Ria12104/Ria12104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ria 👋
 
-Here are some ideas to get you started:
+Computer Science student @ Manipal University Jaipur
+Diploma in CS @ Niagara College Canada 🍁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I'm a CS student with hands-on experience in software development
+and a background in project leadership. I studied in Canada 🇨🇦
+before returning to continue my degree in India 🇮🇳.
+
+Currently refreshing my skills in C# and Python and
+working on new projects. Interested in cybersecurity, data engineering and ML.
+
+## 🛠 Tech
+Languages:   Python · C# · C
+
+Web:         HTML · CSS
+
+Database:    SQL Server · MySQL · SQLite
+
+Frameworks:  MAUI · Blazor Hybrid · MVC
+
+
+## 📌 Featured project
+Portfolio
+
+HTML · CSS
+
+## 📫 Connect
+
+Email: riasharma12104@gmail.com
